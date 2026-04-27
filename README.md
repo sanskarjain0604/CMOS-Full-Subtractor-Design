@@ -62,7 +62,7 @@ The optimized layout achieves approximately **11.6% area reduction** through:
 
 - strategic poly routing
 - shared diffusion regions
-- reduced Metal2 usage
+- reduced M2 usage
 - better floorplanning
 
 ---
