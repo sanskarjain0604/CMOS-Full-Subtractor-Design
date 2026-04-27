@@ -111,20 +111,6 @@ This verifies robustness of the design under manufacturing variation.
 7. Post-layout simulation
 8. PVT corner analysis
 9. Monte Carlo analysis
-
----
-
-## Figures
-
-### Truth Table
-![Truth Table](./images/truth-table.png)
-
-### PVT Corner Analysis
-![PVT Corner Analysis](./images/pvt-corner-analysis.png)
-
-### Layout Comparison
-![Layout Comparison](./images/layout-comparison.png)
-
 ---
 
 ## Tools Used
